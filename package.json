@@ -1,0 +1,26 @@
+{
+  "name": "omnistack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getuliopg/Omnistack11.git"
+  },
+  "keywords": [],
+  "author": "GetulioPG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getuliopg/Omnistack11/issues"
+  },
+  "homepage": "https://github.com/getuliopg/Omnistack11#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.1"
+  }
+}
